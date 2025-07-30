@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Kaleem Hassan's Automation & AI Engineering Portfolio
 
 👨‍💻 **Software Engineering Student at COMSATS Islamabad**  
@@ -9,50 +9,6 @@
 ## 🌟 Overview
 Welcome to my portfolio! I'm Kaleem Hassan, a Software Engineering student at COMSATS Islamabad. I've built automation solutions for real-world businesses using cutting-edge tools like Activepieces, n8n, ChatGPT, and custom scripting. Below is a showcase of my technical projects that combine APIs, no-code/low-code tools, and AI.
 
----
-
-## 🧠 AI-Powered Automation Projects
-
-### 1. 📨 Email-to-LinkedIn SEO Writer
-> **Newsletter -> ChatGPT -> SEO Article -> LinkedIn Scheduled Post**
-- Tools: `Activepieces`, `IMAP`, `Gmail`, `LinkedIn`, `ChatGPT`, `Google Drive`, `Time Scheduler`, `DALL-E`
-- Automated company update creation using AI-generated SEO posts.
-
-### 2. 📇 ReachInbox API Dynamic Record Creation
-> Used dynamic field mapping via code block to handle contact creation.
-- Tools: `Activepieces`, `ReachInbox API`, `Custom Code Block`
-
-### 3. 📦 Webhook → JSON → AfterShip Integration
-> Migrated flow from Pabbly to Activepieces and solved JSON parsing.
-- Tools: `Activepieces`, `AfterShip`, `Webhook`, `JSON`, `Order Management`
-
-### 4. 📝 TallyForm to Notion CRM Sync
-> Mapped IDs to actual values using TypeScript; handled create/update operations in NotionDB.
-- Tools: `TallyForm`, `NotionDB`, `Activepieces`, `TypeScript`, `API`
-
-### 5. 🔐 Google Sheets License Validator for Addon
-> Laravel backend to handle licensing, authentication, and PayPal.
-- Tools: `Laravel`, `Google Sheets`, `PayPal`, `Admin Panel`, `License Binding`
-
-### 6. 🔄 Newbook ↔ Breezeway Sync (n8n)
-> Bi-directional sync of bookings.
-- Tools: `n8n`, `API`, `Bookings`
-
-### 7. 📧 Gmail Responder AI
-> Checks subscription in Google Sheets, sends recipes or subscribe message.
-- Tools: `Activepieces`, `ChatGPT`, `Google Sheets`, `IMAP`, `Gmail`
-
-### 8. ✍️ AI-Powered Article Automation for WordPress
-> Cleaned up buggy workflows, added advanced error handling.
-- Tools: `Activepieces`, `WordPress`, `ChatGPT`, `Google Sheets`
-
-### 9. 📬 WordPress ACF Integration with AI
-> Emails → JSON → Populate WordPress ACF fields with custom SMTP and branding.
-- Tools: `Activepieces`, `ChatGPT`, `ACF`, `SMTP`, `Google Sheets`
-
-### 10. 🛍️ Web Scraper using ZeroWork
-> Scrapes product details with looping & XPath selectors.
-- Tools: `ZeroWork Creator`, `XPath`, `Data Tables`, `Web Scraping`
 
 ---
 
