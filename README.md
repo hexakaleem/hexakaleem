@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**hexakaleem/hexakaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kaleem, an aspiring backend developer focused on AI agentic development.
 
-Here are some ideas to get you started:
+### 🎓 Education
+- Studying at **Comsats University**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+- **Web Developer Intern** at Livinservices
+
+### 🚀 Career Goals
+- Aspiring to be a **Backend Developer** using **AI Agentic Development**
+
+### 📫 How to reach me
+- Email: kaleemhassanansari@gmail.com
